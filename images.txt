@@ -1,4 +1,4 @@
---platform=linux/arm64 flink:1.16.3-java8
+--platform=linux/arm64 ollama/ollama:0.5.12
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # xhofe/alist:latest
